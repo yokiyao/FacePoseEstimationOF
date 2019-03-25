@@ -1,0 +1,7 @@
+icon.rc
+.vs
+*.exp
+*.iobj
+*.ipdb
+*.dat
+obj/
